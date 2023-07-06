@@ -5,7 +5,6 @@ import time
 import random
 import requests
 import os
-import sys as n
 import time as mm
 
 session = requests.session()
