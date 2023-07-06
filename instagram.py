@@ -2,7 +2,6 @@
 #Insta: e4cb
 from colorama import Fore
 import time
-import string
 import random
 import requests
 import os
